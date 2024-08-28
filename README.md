@@ -51,7 +51,7 @@ El **Juego de NIM Estéticamente Mejorado** es una versión gráfica del clásic
 3. **Ejecuta el juego:**
 
     ```bash
-    python nim_game.py
+    python main.py
     ```
 
 ## 🎮 **Cómo Jugar**
