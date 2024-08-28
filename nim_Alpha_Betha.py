@@ -245,7 +245,7 @@ class NodeNim(Node):
     return all([len(f)==0 for f in self.state])
 
   def get_value_from_nim_sum(self, nim_sum):
-        # En el juego de Nim Misere, queremos que el último que quite una pieza pierda.
+        # En el juego de Nim Normal, el jugador que quite de último es el ganador.
         if not self.player:
             # Si el nim_sum es 0 y es el turno del jugador actual, queremos que esto sea desfavorable para ellos.
             return 1 if nim_sum == 0 else -1
