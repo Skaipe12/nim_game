@@ -18,7 +18,7 @@
 
 ## Introducción
 
-El **Juego de NIM Estéticamente Mejorado** es una versión gráfica del clásico juego de Nim, donde dos jugadores (uno humano y uno máquina) toman turnos para quitar fósforos de una pirámide. El objetivo es evitar ser el jugador que quita el último fósforo.
+El **Juego de NIM Estéticamente Mejorado** es una versión gráfica del clásico juego de Nim, donde dos jugadores (uno humano y uno máquina) toman turnos para quitar fósforos de una pirámide. El objetivo del jugador es que quita el último fósforo.
 
 ## Reglas del Juego
 
