@@ -78,7 +78,7 @@ El **Juego de NIM Estéticamente Mejorado** es una versión gráfica del clásic
 
 ## Capturas de Pantalla
 
-![Pantalla Principal](https://github.com/Skaipe12/nim_game/blob/main/Tablero.png?raw=true](https://raw.githubusercontent.com/Skaipe12/nim_game/main/Tablero.png)
+![Pantalla Principal](https://ibb.co/0tR8kzz)
 
 *Pantalla principal mostrando la pirámide de fósforos y los botones de control.*
 
