@@ -1,6 +1,6 @@
 # 🎮 Juego de NIM Estéticamente Mejorado
 
-![Juego de NIM](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.imgur.com%2F0wiGNRi.png&f=1&nofb=1&ipt=ef4e338949c9b311319ab4dd54baee1dd63d6a0630c00add6de64c122916aeb0&ipo=images)
+![Juego de NIM]([https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.imgur.com%2F0wiGNRi.png&f=1&nofb=1&ipt=ef4e338949c9b311319ab4dd54baee1dd63d6a0630c00add6de64c122916aeb0&ipo=images](https://i.postimg.cc/s1FnzRWv/Fosforos.png))
 
 ¡Bienvenido al **Juego de NIM Estéticamente Mejorado**! Este juego implementa la versión clásica del juego de Nim con una interfaz visual mejorada utilizando Python y Pygame.
 
