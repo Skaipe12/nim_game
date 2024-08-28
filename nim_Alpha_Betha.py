@@ -118,9 +118,7 @@ class Tree ():
         node=stack.pop()
         if node.operator is not None:
             operator_selected = self.operators[node.operator]
-            print(f'operador:  {self.operators[node.operator]} \t estado: {node.state}')
-        else:
-            print(f' {node.state}')
+            
     return path, operator_selected
 
   def reinitRoot(self):

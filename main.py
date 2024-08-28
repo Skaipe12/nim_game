@@ -1,6 +1,7 @@
 import pygame
 import sys
 from nim_Alpha_Betha import NodeNim, Tree
+import random
 
 # Verifica que el juego haya terminado
 def check_game_over(piles):
@@ -10,11 +11,11 @@ def check_game_over(piles):
 #Selección de la profundidad de búsqueda
 def get_search_depth(level):
     if level == 'easy':
-        return 1
+        return 2
     elif level == 'medium':
-        return 3
+        return 6
     elif level == 'hard':
-        return 6 # si lo probamos en otro pc ponerlo en 7
+        return 9 # si lo probamos en otro pc ponerlo en 7
     
 
 
@@ -199,7 +200,6 @@ def main():
 
                         # Se obtiene la jugada de la máquina
                         objectiveA = treeAlphayBeta.alfaYbeta(get_search_depth(difficulty))
-                        # Se obtiene el operador seleccionado por la máquina
                         path, operator_selected = treeAlphayBeta.printPath(objectiveA)
                         # Se actualiza el estado del juego
                         piles[operator_selected[0]] -= operator_selected[1]
