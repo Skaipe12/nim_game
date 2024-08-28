@@ -78,7 +78,7 @@ El **Juego de NIM Estéticamente Mejorado** es una versión gráfica del clásic
 
 ## Capturas de Pantalla
 
-![Pantalla Principal]([https://ibb.co/0tR8kzz](https://i.ibb.co/C23NqSS/Tablero.png))
+![Pantalla Principal](https://i.postimg.cc/T1jdjTT6/Tablero.png)
 
 *Pantalla principal mostrando la pirámide de fósforos y los botones de control.*
 
